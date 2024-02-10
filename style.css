@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.article {
+    width: 700px;
+    border: 1px solid #000;
+    border-radius: 10px;
+    padding: 24px;
+    margin: 12px;
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+}
+
+.heading {
+    color: red;
+}
